@@ -1,4 +1,4 @@
-module go-s3
+module github.com/greensea/go-s3
 
 go 1.22.4
 
