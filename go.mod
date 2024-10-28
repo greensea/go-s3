@@ -1,4 +1,4 @@
-module s3
+module go-s3
 
 go 1.22.4
 
