@@ -1,6 +1,6 @@
 // 用于 Cloudflare Worker 的实现，但尚未成功，暂时注释不用
 
-// package s3
+package s3
 
 // import (
 // 	"context"
